@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "Bash(npm run build:*)",
+      "Bash(npx playwright install chromium)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run server:*)",
+      "Bash(where ffmpeg)",
+      "Bash(winget install:*)",
+      "Bash(npx kill-port:*)",
+      "Bash(export PATH=\"$PATH:/c/Users/peter/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.0.1-full_build/bin\")",
+      "Bash(dir:*)",
+      "Bash(ffprobe:*)",
+      "Bash(where:*)",
+      "Bash(export PATH:*)",
+      "Bash(cat:*)",
+      "Bash(pip install:*)",
+      "Bash(ls:*)",
+      "Bash(timeout:*)",
+      "Bash(findstr:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(/c/ffmpeg/ffmpeg.exe:*)",
+      "Bash(export PATH=\"$PATH:/c/ffmpeg\")",
+      "Bash(xargs cat:*)",
+      "Skill(prp-implement)",
+      "Bash(npm install:*)",
+      "Bash(curl:*)"
+    ]
+  }
+}
